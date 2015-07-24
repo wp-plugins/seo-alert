@@ -3,8 +3,8 @@ Contributors: vsmash
 Donate link: http://www.velvary.com.au/vanilla-beans/wordpress/seo-alert/
 Tags: SEO, bot detection, google visit, Bing visit, Yahoo Visit, sitemap scrape, search engine bot
 Requires at least: 4.0
-Tested up to: 4.22
-Stable tag: 1.00
+Tested up to: 4.23
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,9 @@ Depends on wp_mail
 
 
 == Changelog ==
+= 1.01 =
+Tested against Wordpress 4.23
+
 = 1.0 =
 Created
 

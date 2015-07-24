@@ -3,7 +3,7 @@
 Plugin Name: Vanilla Bean - SEO Alert
 Plugin URI: https://wordpress.org/plugins/seo-alert/
 Description: Email report of visits from the seo bot.   --Vanilla Beans for Wordpress by Velvary Pty Ltd
-Version: 1.00
+Version: 1.01
 Author: Mark Pottie <mark@pottie.com>
 Author URI: http://www.pottie.com
 License: GPLv2
@@ -25,7 +25,7 @@ if ( !defined( 'VBEANSEOALERT_PLUGIN_FILE' ) ) {
 	define( 'VBEANSEOALERT_PLUGIN_FILE', __FILE__ );
 }
 if ( !defined( 'VBEANSEOALERT_PLUGIN_VERSION' ) ) {
-	define( 'VBEANSEOALERT_PLUGIN_VERSION', '1.00' );
+	define( 'VBEANSEOALERT_PLUGIN_VERSION', '1.01' );
 }
 
 
